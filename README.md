@@ -74,6 +74,7 @@ http://127.0.0.1:8000/docs
 
 ◾ API Endpoints
 Method	Endpoint	Description
+
 POST	/users	Create new user
 GET	/users	Get all users
 GET	/users/{id}	Get user by ID
