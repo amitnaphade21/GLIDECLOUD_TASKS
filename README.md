@@ -1,4 +1,4 @@
-#◾ FastAPI MongoDB CRUD Application#
+◾ FastAPI MongoDB CRUD Application
 
 A production-style FastAPI backend project implementing CRUD (Create, Read, Update, Delete) operations using MongoDB with async support via Motor.
 
@@ -33,20 +33,6 @@ Uvicorn – ASGI server
 ✅ Async & non-blocking database operations
 
 ✅ Auto-generated Swagger UI
-
-✅ Clean separation of concerns
-
-✅ Production-ready structure
-
-◾ Project Structure
-fastapi_mongo_crud/
- ├── main.py        # API routes
- ├── database.py    # MongoDB connection
- ├── crud.py        # Database operations
- ├── schemas.py     # Pydantic validation schemas
- ├── models.py      # MongoDB data serializer
- ├── requirements.txt
- └── README.md
 
 ◾ Setup Instructions (Local)
 1️⃣ Clone the repository
@@ -93,7 +79,7 @@ GET	/users	Get all users
 GET	/users/{id}	Get user by ID
 PUT	/users/{id}	Update user
 DELETE	/users/{id}	Delete user
-🧪 Example Request (Create User)
+ Example Request (Create User)
 {
   "name": "Amit",
   "email": "amit@gmail.com",
@@ -103,7 +89,7 @@ DELETE	/users/{id}	Delete user
 ◾ Request Flow
 Client → FastAPI → Pydantic Validation → CRUD Layer → MongoDB → Response
 
-🏗️ Architecture Highlights
+ Architecture Highlights
 
 Schema validation at API layer using Pydantic
 
@@ -114,8 +100,6 @@ Async database operations for high performance
 Clean separation between:
 
 API layer
-
-Business logic
 
 Database access
 
