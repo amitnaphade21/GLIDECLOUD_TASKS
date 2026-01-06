@@ -133,7 +133,3 @@ This allows easy deployment to cloud (MongoDB Atlas, Render, etc.)
 ◾ Author
 
 Amit Naphade
-
-🏆 Interview Ready Statement
-
-“This project demonstrates a scalable FastAPI backend using async MongoDB with clean architecture, schema validation, and production-ready design.”
