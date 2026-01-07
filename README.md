@@ -1,4 +1,4 @@
-Vector Database Script using Ollama and ChromaDB
+RAG backend using Ollama and ChromaDB
 What this script does
 
 Reads text from docs.txt
