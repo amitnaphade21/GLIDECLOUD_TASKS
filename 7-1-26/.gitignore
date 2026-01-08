@@ -1,0 +1,55 @@
+# ========================
+# Python
+# ========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+.pytest_cache/
+.mypy_cache/
+
+# ========================
+# Virtual Environments
+# ========================
+venv/
+env/
+.venv/
+ENV/
+virtualenv/
+pip-wheel-metadata/
+
+# ========================
+# Environment files
+# ========================
+.env
+
+# ========================
+# OS / Editor junk
+# ========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ========================
+# Logs
+# ========================
+*.log
+
+# ========================
+# ChromaDB
+# ========================
+chroma_db/
+
+# ========================
+# Build
+# ========================
+build/
+dist/
+
+# ========================
+# Jupyter
+# ========================
+.ipynb_checkpoints/
