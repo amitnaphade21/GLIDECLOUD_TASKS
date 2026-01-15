@@ -1,8 +1,0 @@
-{
-  "employees": [
-    {"id": "E101", "name": "Amit", "role": "Software Engineer", "manager": "E201"},
-    {"id": "E102", "name": "Riya", "role": "QA Engineer", "manager": "E201"},
-    {"id": "E201", "name": "Suresh", "role": "Engineering Manager", "manager": "E301"},
-    {"id": "E301", "name": "Anita", "role": "Director", "manager": null}
-  ]
-}
