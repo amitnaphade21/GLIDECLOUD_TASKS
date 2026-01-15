@@ -52,7 +52,7 @@ logs/
 import/
 plugins/
 neo4j.conf
-
+__pycache__/
 # ========================
 # Ollama / Models / Cache
 # ========================
