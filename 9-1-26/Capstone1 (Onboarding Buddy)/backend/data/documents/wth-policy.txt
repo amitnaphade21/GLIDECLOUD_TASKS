@@ -1,0 +1,47 @@
+GlideCloud Work From Home (WFH) Policy
+
+This policy defines the guidelines and rules for employees who wish to work from home either temporarily or permanently.
+
+1. Purpose
+
+The purpose of this policy is to provide flexibility to employees while ensuring productivity, data security, and business continuity.
+
+2. Eligibility
+
+Work from home is allowed for employees based on the nature of their role, performance history, and approval from their reporting manager.
+
+3. Types of Work From Home
+
+- Occasional WFH: For short-term needs such as personal commitments.
+- Long-term WFH: For employees working remotely for extended periods.
+
+4. Working Hours
+
+Employees working from home must be available during standard office hours from 10:00 AM to 7:00 PM unless otherwise agreed.
+
+5. Productivity Expectations
+
+Employees are expected to maintain the same level of productivity and responsiveness as if they were working from the office.
+
+6. Data Security
+
+Employees must ensure:
+- Company data is not shared with unauthorized persons
+- Office systems are accessed securely
+- Personal devices are protected with passwords and antivirus software
+
+7. Communication
+
+Employees must attend all scheduled meetings and be reachable via official communication channels such as email, Slack, or Microsoft Teams.
+
+8. Equipment
+
+The company may provide laptops or other required equipment based on role and availability.
+
+9. Revocation
+
+The company reserves the right to revoke WFH privileges if performance or discipline issues are observed.
+
+10. Policy Violation
+
+Violation of this policy may lead to disciplinary action.
